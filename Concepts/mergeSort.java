@@ -1,4 +1,4 @@
-package leetcode;
+package Concepts;
 
 public class mergeSort {
    
