@@ -1,5 +1,3 @@
-package leetcode;
-
 
 class buyStock {
 
